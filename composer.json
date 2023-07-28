@@ -1,0 +1,18 @@
+{
+    "name": "rtech/rcarapi",
+    "description": "Open REST API for car models",
+    "autoload": {
+        "psr-4": {
+            "RTech\\RCarApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rarivoson Andrianambinintsoa",
+            "email": "nambinintsoa26@yahoo.fr"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
